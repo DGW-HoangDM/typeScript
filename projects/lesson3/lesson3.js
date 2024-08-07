@@ -1,2 +1,3 @@
 var message = "hello world";
-console.log(message);
+message = "hello Hoang";
+console.log(message.length);
